@@ -93,3 +93,24 @@ endif
 inoremap <C-U> <C-G>u<C-U>
 
 " vim:set ft=vim et sw=2:
+
+" guangbin-custom
+set fileencoding=utf-8
+
+set mouse=a
+set mousehide
+
+set clipboard+=unnamed
+
+set hlsearch
+set cursorline
+set noshowmode
+set signcolumn=yes
+
+set expandtab
+set shiftwidth=4
+set tabstop=4
+set softtabstop=4
+
+set noswapfile
+set completeopt=menu,menuone,noselect,noinsert
